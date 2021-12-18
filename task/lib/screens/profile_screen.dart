@@ -1,6 +1,5 @@
 import 'package:task/config/application.dart';
 import 'package:task/config/screen_config.dart';
-import 'package:task/screens/signin.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 
