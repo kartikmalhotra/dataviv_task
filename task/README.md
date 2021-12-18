@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td><img src="assets/5.jpeg" width="270" height="480" title="Ecommerce app" alt="Ecommerce app"/></td>
-    <td><img src="assets/5.jpeg" width="270" height="480" title="Ecommerce app" alt="Ecommerce app"/></td>
+    <td><img src="assets/7.jpeg" width="270" height="480" title="Ecommerce app" alt="Ecommerce app"/></td>
   </tr>
  </table>
 
